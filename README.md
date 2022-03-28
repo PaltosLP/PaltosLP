@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -->
 
 
-go look at my forest
-[Link to Google](https://github.com/PaltosLP/nvim#readme)
+go look at my [forest](https://github.com/PaltosLP/nvim#readme)
