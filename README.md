@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
+how are u?
 
 go look at my [forest](https://github.com/PaltosLP/nvim#readme)🌲🌲🌲
