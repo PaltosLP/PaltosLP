@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 how are u?
 
-go look at my [forest](https://github.com/PaltosLP/nvim#readme)🌲🌲🌲
+go look at my [Neovim Config](https://github.com/PaltosLP/nvim#readme) :)
