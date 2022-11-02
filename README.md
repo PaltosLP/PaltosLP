@@ -17,5 +17,5 @@ how are u?
 
 go look at my [Neovim Config](https://github.com/PaltosLP/nvim#readme) :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaltosLP&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaltosLP&show_icons=true&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
